@@ -1,0 +1,80 @@
+.header{
+	position: relative;
+	left: 5%;
+	width: 80%;
+	box-shadow: 5px 5px 5px #888888;
+	border: 2px #004471;
+	color: #004471;
+	background-color: white;
+	padding: 2%;
+}
+
+body{
+	background-color: #84b8d5;
+}
+
+.login {
+	position: relative;
+	left: 80%;
+	background-color: #0871aa; 
+	color: white;
+    width: 15%;
+    font-size: 80%;
+    padding: 1% 2%;
+    margin: 1% 0;
+    border: 1% solid #ccc;
+    border-radius: 1%;
+    cursor: pointer;
+    border-radius: 11%;
+}
+
+.NewUser {
+	width: 35%;
+	height: auto;
+		margin: 4%;
+	padding: 2%;
+	font-weight: 'Medium';
+	border: 2px solid #ccc;
+	box-shadow: 5px 5px 5px #888888;
+	background-color: white;
+}
+
+.ForgotPassword {
+	position: absolute;
+	height: auto;
+	left: 45%;
+	bottom: 5%;
+	width: 35%;
+	margin: 3%;
+	padding: 2%;
+	font-weight: 'Medium';
+	border: 2px solid #ccc;
+	box-shadow: 5px 5px 5px #888888;
+	background-color: white;
+}
+
+.ReturnUser {
+	width: 80%;
+		margin: 4%;
+	padding: 2%;
+	font-weight: 'Medium';
+	border: 2px solid #ccc;
+	box-shadow: 5px 5px 5px #888888;
+	background-color: white;
+}
+
+.UserOptions {
+	font-size: 140%;
+	font-weight: bold;
+	color: #004471;
+}
+
+.UserOptionsText {
+	font-size: 90%;
+	color: #004471;
+}
+
+.contactbutton {
+	position: absolute;
+	left: 80%;
+}
